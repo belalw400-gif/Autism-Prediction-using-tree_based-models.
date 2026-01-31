@@ -22,3 +22,10 @@ The dataset includes features related to A1-A10 screening questions, age, gender
 - `Autism Prediction using tree-based models.ipynb`: The main notebook containing the code.
 - `train.csv`: The dataset used.
 - `Requirements.txt`: List of dependencies.
+
+## **Confusion matrix** 
+![Confusion Matrix](confusion%20matrix.png)
+
+## **Features Importances**
+![Feature Importances](feature%20importances.png)
+
