@@ -19,6 +19,6 @@ The dataset includes features related to A1-A10 screening questions, age, gender
 - **Evaluation:** Using Confusion Matrix and Classification Report to ensure clinical relevance.
 
 ## 📂 Project Structure
-- `model.ipynb`: The main notebook containing the code.
-- `Autism_Data.csv`: The dataset used.
-- `requirements.txt`: List of dependencies.
+- `Autism Prediction using tree-based models.ipynb`: The main notebook containing the code.
+- `train.csv`: The dataset used.
+- `Requirements.txt`: List of dependencies.
