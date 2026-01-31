@@ -1,2 +1,24 @@
-# Autism-Prediction-using-tree_based-models.
-A Machine Learning model using tree_based models to classify patients data into have Autism or not.
+# Autism Prediction using Machine Learning 🧩
+
+## Project Overview
+This project aims to predict the likelihood of Autism Spectrum Disorder (ASD) traits in individuals based on behavioral and demographic data. Using Machine Learning, we can provide a preliminary screening tool that helps in early detection.
+
+## 🛠️ Technical Stack
+- **Language:** Python
+- **Environment:** Google Colab / Jupyter Notebook
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,ibmlearn.
+- **Algorithm:** [Random Forest Classifier]
+
+## 📊 Dataset
+The dataset includes features related to A1-A10 screening questions, age, gender, and ethnicity.
+
+## 🚀 Key Features
+- **Data Preprocessing:** Handling missing values and encoding categorical data.
+- **Exploratory Data Analysis (EDA):** Visualizing correlations between screening scores and ASD traits.
+- **Model Training:** Training a classification model to achieve high accuracy and recall.
+- **Evaluation:** Using Confusion Matrix and Classification Report to ensure clinical relevance.
+
+## 📂 Project Structure
+- `model.ipynb`: The main notebook containing the code.
+- `Autism_Data.csv`: The dataset used.
+- `requirements.txt`: List of dependencies.
